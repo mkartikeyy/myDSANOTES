@@ -13,3 +13,12 @@ public:
         this->next = NULL;
     }
 };
+
+void deleteLL(Node &head){
+
+}
+
+int main (){
+
+
+}
